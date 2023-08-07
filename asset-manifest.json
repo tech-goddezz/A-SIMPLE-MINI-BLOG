@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Final-simple-mini-blog/static/css/main.70dadab6.css",
+    "main.js": "/Final-simple-mini-blog/static/js/main.f1a6698a.js",
+    "index.html": "/Final-simple-mini-blog/index.html",
+    "main.70dadab6.css.map": "/Final-simple-mini-blog/static/css/main.70dadab6.css.map",
+    "main.f1a6698a.js.map": "/Final-simple-mini-blog/static/js/main.f1a6698a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70dadab6.css",
+    "static/js/main.f1a6698a.js"
+  ]
+}
